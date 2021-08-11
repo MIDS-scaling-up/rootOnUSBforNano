@@ -1,6 +1,6 @@
 #!/bin/sh
 # Runs at startup, switches rootfs to the SSD on nvme0 (M.2 Key M slot)
-NVME_DRIVE="/dev/nvme0n1p1"
+NVME_DRIVE="/dev/sda1"
 CHROOT_PATH="/nvmeroot"
 
 INITBIN=/lib/systemd/systemd
