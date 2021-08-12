@@ -32,7 +32,4 @@ Typically this involves copying the /boot* directory and /lib/modules/\<kernel n
 
 
 ## Notes
-* Initial Release, May 2020
-* JetPack 4.4 DP
-* Tested on Jetson Xavier NX
-
+* Tested on Jetson Nano
